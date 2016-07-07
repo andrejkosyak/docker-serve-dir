@@ -1,7 +1,7 @@
 {
   "name": "serve-dir-index",
   "version": "1.0.0",
-  "description": "Automatic indexing of directories and download files on click",
+  "description": "Nodejs app for indexing of directories and download files on click",
   "main": "index.js",
   "scripts": {
     "start": "node index",
