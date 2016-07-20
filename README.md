@@ -19,8 +19,8 @@ docker run -d \
 
 ## Config
 
-**Environment (required)**
+**Environment** *(required)*
 An `-e` variable should be passed for `servePath`. This would be the index folder.
 
-**Volume (optional)**
+**Volume** *(optional)*
 You can map a volume or just serve from the container filesystem.
