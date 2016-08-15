@@ -1,4 +1,4 @@
-![License MIT](https://img.shields.io/badge/license-MIT-blue.svg) [![](https://img.shields.io/docker/pulls/andrejkosyak/docker-serve-dir.svg)](https://hub.docker.com/r/andrejkosyak/docker-serve-dir 'DockerHub')
+![License MIT](https://img.shields.io/badge/license-MIT-blue.svg) [![](https://img.shields.io/docker/pulls/andrejkosyak/docker-serve-dir.svg)](https://hub.docker.com/r/andrejkosyak/docker-serve-dir 'DockerHub') [![Analytics](https://ga-beacon.appspot.com/UA-82522402-1/docker-serve-dir/readme)](https://github.com/igrigorik/ga-beacon)
 
 This image allows you to serve static files. It's a NodeJS server application, that uses [express](https://github.com/expressjs/express), [serve-index](https://github.com/expressjs/serve-index) and [serve-static](https://github.com/expressjs/serve-static) libraries to allow user-friendly
 file listing. If a file is being clicked - download is forced.
